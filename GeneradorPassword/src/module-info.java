@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author elkin
- *
- */
-module GeneradorPassword {
-}
